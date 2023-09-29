@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ATUL XALXO</h1>
-<p align="center">https://github.com/Atul-Xalxo/Atul-Xalxo/blob/main/download.jpg</p>
+<p align="center"><img src=https://github.com/Atul-Xalxo/Atul-Xalxo/blob/main/download.jpg/></p>
 <h3 align="center">A rookie in a way to be a veteran</h3>
 
 - 🔭 I’m currently working on **HackerRank problem solving.**
