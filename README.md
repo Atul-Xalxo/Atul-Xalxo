@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/atul-xalxo-2254ab226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atul-xalxo-2254ab226" height="30" width="40" /></a>
-<a href="https://instagram.com/atul_john_xalxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atul_john_xalxo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/atulxalxo619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@atulxalxo619" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atul-xalxo-2254ab226" target="blank"><img align="center" src="https://github.com/Atul-Xalxo/Atul-Xalxo/blob/main/33-337425_instagram-clipart-psd-instagram-logo-png-hd-download.png" alt="https://www.linkedin.com/in/atul-xalxo-2254ab226" height="30" width="40" /></a>
+<a href="https://instagram.com/atul_john_xalxo" target="blank"><img align="center" src="https://github.com/Atul-Xalxo/Atul-Xalxo/blob/main/hackerrank.jpg" alt="atul_john_xalxo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/atulxalxo619" target="blank"><img align="center" src="https://github.com/Atul-Xalxo/Atul-Xalxo/blob/main/linkedin.jpg" alt="@atulxalxo619" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
